@@ -7,6 +7,8 @@
   <img src="https://github.com/user-attachments/assets/f4b3e13e-c996-45a9-8e97-174a1695b2dc" width="300">
 </div>
 
+販売ページ：[akiyamas.booth.pm/items/6938747](https://akiyamas.booth.pm/items/6938747)
+
 
 書籍で扱っているコードを格納しています。
 
