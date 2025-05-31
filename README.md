@@ -20,7 +20,7 @@ LangGraphやClaude DesktopでMCPクライアント構築も試すことで、初
 
 
 ## キーワード
-・MCP（Model Context Protocol）
-・LLM（Large Language Model）
-・AIエージェント構築
-・Claude Desktop、Cline、Open AI、Google Sheets API、LangGraph、ReAct
+- MCP（Model Context Protocol）
+- LLM（Large Language Model）
+- AIエージェント構築
+- Claude Desktop、Cline、Open AI、Google Sheets API、LangGraph、ReAct
