@@ -120,6 +120,12 @@ def get_sheet_data(sheet: str) -> Dict[str, Any]:
         range=sheet,
     ).execute()
 
+    values = result.get('values', [])
+    rows_with_numbers = [
+        {"row_number": i + 1, "data": row}
+        for i, row in enumerate(values)
+    ]
+    result["values"] = rows_with_numbers
     return result
 
 
